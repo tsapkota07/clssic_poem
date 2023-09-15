@@ -1,5 +1,6 @@
                                                          Author : Tirsan Sapkota
-Coding in a nutshell ( Red, Blue, Green, Yellow)
+Coding in a nutshell 
+( Red, Blue, Green, Yellow):
 
 There was a guy named Ben.
 Ben had a yellow pen.
